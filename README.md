@@ -49,6 +49,22 @@ The analysis, found in `2. analysis.ipynb`, breaks down the spending into severa
 - `2. analysis.ipynb`: Jupyter notebook for statistical analysis and visualization.
 - `exchange_expenses_dataset.csv`: The cleaned, anonymized, and KRW-converted dataset.
 
+*Note: The original raw CSV file containing private descriptions is not included in this repository.*
+
 ***
 
-*Note: The original raw CSV file containing private descriptions is not included in this repository.*
+## License & Citation
+
+### License
+This dataset and the accompanying analysis are licensed under a **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
+
+- **You are free to**: Share and adapt the material.
+- **Under the following terms**:
+  - **Attribution**: You must give appropriate credit and provide a link to the license.
+  - **NonCommercial**: You may not use the material for commercial purposes (including publications for profit).
+
+To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/).
+
+### How to Cite
+If you use this dataset or analysis for your own project or blog post, please cite it as follows:
+**JeongHo SEO. (2026). Exchange Student Expense Analysis (Grenoble, France). GitHub Repository: [https://github.com/JeongHo-SEO/Exchange-expense]**
